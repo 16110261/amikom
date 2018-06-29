@@ -1,0 +1,19 @@
+body {
+	background:#C0C0C0;
+	color:#fff;
+	margin:0;
+}
+
+#beranda .pembukaan {
+	text-align: center;
+	background: #20B2AA;
+
+}
+
+#kontak {
+	background:#66CDAA ;
+}
+
+#photo{
+	background-image: url("satu.png");
+}
